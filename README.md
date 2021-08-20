@@ -1,2 +1,2 @@
 # MarkovChainPoems
-[Markov_project_intro.pdf](https://github.com/Gattungswesen/MarkovChainPoems/files/7018088/Markov_project_intro.pdf)
+This project employs the probability predictions of Markov chains to generate poems from various time periods. Our algorithm uses a stochastic matrix to predict the occurrence of words sequential to the randomly generated initial word according to the probability rank of said word. The overarching idea is to evaluate the relationship between the size of the data set fed to the algorithm and the consequent change in the accuracy of generated poems.
